@@ -2,3 +2,4 @@ AlgorhythmOverview
 AlgorithmDesign
 AlgorithmFeatures
 DependenciesList
+CodeExamples
