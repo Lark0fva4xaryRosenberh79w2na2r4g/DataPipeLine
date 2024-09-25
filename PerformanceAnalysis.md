@@ -2,3 +2,4 @@ PerformanceMetrics
 SetupInstructions
 OptimizationTechniques
 BenchmarkResults
+ConfigSettings
