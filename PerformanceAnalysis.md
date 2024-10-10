@@ -3,3 +3,4 @@ SetupInstructions
 OptimizationTechniques
 BenchmarkResults
 ConfigSettings
+CommunityRules

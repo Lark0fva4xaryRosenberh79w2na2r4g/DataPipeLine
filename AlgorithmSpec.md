@@ -3,3 +3,4 @@ AlgorithmDesign
 AlgorithmFeatures
 DependenciesList
 CodeExamples
+ContributionGuide
