@@ -4,3 +4,4 @@ AlgorithmFeatures
 DependenciesList
 CodeExamples
 ContributionGuide
+ErrorHandling
