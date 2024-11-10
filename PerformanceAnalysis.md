@@ -4,3 +4,4 @@ OptimizationTechniques
 BenchmarkResults
 ConfigSettings
 CommunityRules
+LicenseDetails
