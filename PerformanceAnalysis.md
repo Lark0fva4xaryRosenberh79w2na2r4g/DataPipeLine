@@ -5,3 +5,4 @@ BenchmarkResults
 ConfigSettings
 CommunityRules
 LicenseDetails
+AlgorithmFAQ
