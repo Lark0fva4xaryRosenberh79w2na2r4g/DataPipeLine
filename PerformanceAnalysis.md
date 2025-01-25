@@ -8,3 +8,4 @@ LicenseDetails
 AlgorithmFAQ
 VersionUpdates
 PerformanceAnalysis
+CommunityResources
